@@ -59,10 +59,7 @@ coffee-sales-data-preprocessing/
 ├── notebook.ipynb
 │
 ├── data/
-│   ├── raw/
-│   │   ├── Kaffeebohnen_2019.xlsx
-│   │   ├── Kaffeebohnen_2020.xlsx
-│   │   └── Kaffeebohnen_2021.xlsx
-│   │
-│   └── processed/
-│       └── Kaffeebohnen_2019_2021_clean.xlsx
+│   ├── Kaffeebohnen_2019.xlsx
+│   ├── Kaffeebohnen_2020.xlsx
+│   └── Kaffeebohnen_2021.xlsx
+│   └── Kaffeebohnen_2019_2021_clean.xlsx
